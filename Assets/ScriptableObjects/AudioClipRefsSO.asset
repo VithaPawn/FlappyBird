@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6fbce404a255cb43b1da48643618f85, type: 3}
+  m_Name: AudioClipRefsSO
+  m_EditorClassIdentifier: 
+  die: {fileID: 8300000, guid: 74756efd525915645b28b32df6dd00d4, type: 3}
+  hit: {fileID: 8300000, guid: 06df18e20b6c7c649928a28ef2c85a94, type: 3}
+  point: {fileID: 8300000, guid: 84ad52d3f4c67f6439bb7b9351da2cb2, type: 3}
+  swoosh: {fileID: 8300000, guid: 5281dec568e8dee45b85c7bb9f2b7432, type: 3}
+  wing: {fileID: 8300000, guid: 9644dabc37dde4e47b10bc07fa2bd337, type: 3}
